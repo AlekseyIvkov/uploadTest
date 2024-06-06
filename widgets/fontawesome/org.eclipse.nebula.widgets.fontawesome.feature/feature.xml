@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.nebula.widgets.fontawesome.feature"
+      label="Nebula Font Awesome Widget"
+      version="1.0.0.qualifier"
+      provider-name="Eclipse Nebula">
+
+   <description url="http://eclipse.org/nebula">
+      Font Awesome Widget
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.nebula.widgets.fontawesome"
+         version="0.0.0"/>
+
+   <plugin
+         id="org.eclipse.nebula.widgets.fontawesome.source"
+         version="0.0.0"/>
+
+</feature>

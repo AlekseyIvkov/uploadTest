@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-07 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: source/class/du2rrd/Application.js:41
+msgid "du2rrd"
+msgstr ""
+
+#: source/class/du2rrd/Application.js:59
+msgid "Disk Space Monitoring Delux"
+msgstr ""
+
+#: source/class/du2rrd/Application.js:85
+msgid ""
+"Double-Click to draw a graph.<br/>Use Checkboxes to add items to the graph."
+msgstr ""
+
+#: source/class/du2rrd/Application.js:97
+msgid "Created by Tobi Oetiker, OETIKER+PARTNER AG"
+msgstr ""
+
+#: source/class/du2rrd/ui/Graph.js:89
+msgid "Loading Graph failed. Try again!"
+msgstr ""
+
+#: source/class/du2rrd/ui/GraphList.js:28
+msgid "Double click on tree item to draw a graph!"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:17
+msgid "graph 1 month back"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:18
+msgid "graph 3 months back"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:19
+msgid "graph 1 year back"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:20
+msgid "graph 3 years back"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:21
+msgid "graph 5 years back"
+msgstr ""
+
+#: source/class/du2rrd/ui/RangeSelect.js:22
+msgid "graph 10 years back"
+msgstr ""
+
+#: source/class/du2rrd/ui/TargetTree.js:30
+msgid "Directory"
+msgstr ""
+
+#: source/class/du2rrd/ui/TargetTree.js:31
+msgid "Size MB"
+msgstr ""
+
+#: source/class/du2rrd/ui/TargetTree.js:32
+msgid "S"
+msgstr ""
